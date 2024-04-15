@@ -18,7 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+Surya_data=int(input())
+Vijay_data=int(input())
+tmp=Surya_data
+Surya_data=Vijay_data
+Vijay_data=tmp
+print("Swapped values are:",Surya_data,Vijay_data)
 
+#output
+![Screenshot 2024-04-15 132120](https://github.com/ArchanaSharikalHarinarayanan/Swapping-two-values/assets/138849780/d5d0d4d9-7549-47e8-98f4-79951b8bec20)
 
 
 ## RESULT:
